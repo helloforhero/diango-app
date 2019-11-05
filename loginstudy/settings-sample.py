@@ -142,4 +142,4 @@ EMAIL_USE_TLS = True
 EMAIL_FROM = 'xxxx@qq.com'
 
 # 注册有效期天数
-CONFIRM_DAYS = 1
+CONFIRM_DAYS = 2
